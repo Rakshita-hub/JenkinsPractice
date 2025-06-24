@@ -8,7 +8,7 @@
 </groups>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="PP2.PracticeTest2"/>
+      <class name="PP2.ClassTest2"/>
       <class name="PP1.PracticeTest1"/>
     </classes>
   </test> <!-- Test -->
