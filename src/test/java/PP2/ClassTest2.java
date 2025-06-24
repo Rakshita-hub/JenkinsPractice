@@ -15,7 +15,7 @@ public class ClassTest2 {
 	@Test(groups="smoke")
 	
 	public void SmoTest() {
-		System.out.println("m1 test is executed");
+		System.out.println("m2 test is executed");
 		System.out.println("Rakshita");
 	}
 }
